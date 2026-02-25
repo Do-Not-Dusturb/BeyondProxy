@@ -649,7 +649,7 @@ public final class Config {
         }
 
         public static final class Server {
-            public String address = "connect.2b2t.org";
+            public String address = "beyondmc.net";
             public int port = 25565;
         }
 
